@@ -1,0 +1,15 @@
+C:\Users\auror\AdventCodeDay12\obj\Debug\net7.0\AdventCodeDay12.csproj.AssemblyReference.cache
+C:\Users\auror\AdventCodeDay12\obj\Debug\net7.0\AdventCodeDay12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auror\AdventCodeDay12\obj\Debug\net7.0\AdventCodeDay12.AssemblyInfoInputs.cache
+C:\Users\auror\AdventCodeDay12\obj\Debug\net7.0\AdventCodeDay12.AssemblyInfo.cs
+C:\Users\auror\AdventCodeDay12\obj\Debug\net7.0\AdventCodeDay12.csproj.CoreCompileInputs.cache
+C:\Users\auror\AdventCodeDay12\bin\Debug\net7.0\AdventCodeDay12.exe
+C:\Users\auror\AdventCodeDay12\bin\Debug\net7.0\AdventCodeDay12.deps.json
+C:\Users\auror\AdventCodeDay12\bin\Debug\net7.0\AdventCodeDay12.runtimeconfig.json
+C:\Users\auror\AdventCodeDay12\bin\Debug\net7.0\AdventCodeDay12.dll
+C:\Users\auror\AdventCodeDay12\bin\Debug\net7.0\AdventCodeDay12.pdb
+C:\Users\auror\AdventCodeDay12\obj\Debug\net7.0\AdventCodeDay12.dll
+C:\Users\auror\AdventCodeDay12\obj\Debug\net7.0\refint\AdventCodeDay12.dll
+C:\Users\auror\AdventCodeDay12\obj\Debug\net7.0\AdventCodeDay12.pdb
+C:\Users\auror\AdventCodeDay12\obj\Debug\net7.0\AdventCodeDay12.genruntimeconfig.cache
+C:\Users\auror\AdventCodeDay12\obj\Debug\net7.0\ref\AdventCodeDay12.dll
